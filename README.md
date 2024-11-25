@@ -7,4 +7,4 @@
 #Assignment-07(https://github.com/2303A51965/2303A51965/blob/main/Assignment_7.ipynb)
 #Assignment-08(https://github.com/2303A51965/2303A51965/blob/main/Assignment8.ipynb)
 #Assignment-09(https://github.com/2303A51965/2303A51965/blob/main/Assignment9_AIML.ipynb)
-#Assignment-10()
+#Assignment-10(https://github.com/2303A51965/2303A51965/blob/main/Assignment10_AIML.ipynb)
